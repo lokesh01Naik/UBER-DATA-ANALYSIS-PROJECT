@@ -55,9 +55,6 @@ For detailed insights and visualizations, please refer to the notebook.
 
  Author
 ---
-Lokesh Naik Kethavath
-Feel free to connect:
-
- LinkedIn: https://www.linkedin.com/in/lokesh-naik-a1507a220/
- 
- Email:naiklokesh047@gmail.com
+**kethavath LokeshNaik**  
+Connect: [LinkedIn](https://www.linkedin.com/in/lokesh-naik-a1507a220/)  
+Email: naiklokesh047@gmail.com

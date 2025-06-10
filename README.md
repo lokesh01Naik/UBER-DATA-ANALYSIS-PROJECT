@@ -53,10 +53,11 @@ Analysis of average distances traveled by users.
 
 For detailed insights and visualizations, please refer to the notebook.
 
-👤 Author
+ Author
 ---
 Lokesh Naik Kethavath
 Feel free to connect:
 
  LinkedIn: https://www.linkedin.com/in/lokesh-naik-a1507a220/
+ 
  Email:naiklokesh047@gmail.com

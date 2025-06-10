@@ -1,8 +1,8 @@
-# 🚖 Uber Data Analysis
+# Uber Data Analysis
 ---
 This project involves analyzing Uber ride data to extract insights and answer key business questions. The goal is to understand user behavior, ride patterns, and trends to help improve decision-making at Uber.
 
-## 📊 Objectives
+##  Objectives
 ---
 As a data analyst at Uber, the following questions are addressed in this project:
 
@@ -13,12 +13,12 @@ As a data analyst at Uber, the following questions are addressed in this project
 5. On which days of the week do people book Uber rides the most?
 6. How many miles do people usually book a cab for through Uber?
 
-## 📁 Files in the Repository
+##  Files in the Repository
 ---
 - `uber data analysis .ipynb`: Jupyter Notebook containing data cleaning, analysis, visualizations, and conclusions.
 - `README.md`: Overview and documentation of the project.
 
-## 🧰 Tools and Technologies Used
+##  Tools and Technologies Used
 ---
 - Python
 - Pandas
@@ -27,7 +27,7 @@ As a data analyst at Uber, the following questions are addressed in this project
 - Seaborn
 - Jupyter Notebook
 
-## 🚀 How to Run
+## How to Run
 ---
 1. Clone the repository:
    ```bash
@@ -43,7 +43,7 @@ jupyter notebook
 
 4.Run all cells in uber data analysis .ipynb to see the analysis.
 
-📌 Key Insights
+ Key Insights
 ----
 Identification of the most popular ride categories and purposes.
 
@@ -58,7 +58,5 @@ For detailed insights and visualizations, please refer to the notebook.
 Lokesh Naik Kethavath
 Feel free to connect:
 
-📧 Email: 
-
-🔗 LinkedIn: 
-
+ LinkedIn: https://www.linkedin.com/in/lokesh-naik-a1507a220/
+ Email:naiklokesh047@gmail.com

@@ -32,10 +32,13 @@ As a data analyst at Uber, the following questions are addressed in this project
 1. Clone the repository:
    ```bash
    git clone https://github.com/lokesh01Naik/uber-data-analysis.git
+   
 2.Navigate to the project folder:
 cd uber-data-analysis
+
 3.Open the notebook using Jupyter:
 jupyter notebook
+
 4.Run all cells in uber data analysis .ipynb to see the analysis.
 
 📌 Key Insights
